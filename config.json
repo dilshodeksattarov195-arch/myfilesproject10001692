@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdarse",
+        "uuid": 4536252,
+        "checksum": "74tgj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
